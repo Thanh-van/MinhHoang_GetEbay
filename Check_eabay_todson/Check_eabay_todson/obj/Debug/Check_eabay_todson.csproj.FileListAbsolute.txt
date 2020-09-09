@@ -1,0 +1,10 @@
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\bin\Debug\Check_eabay_todson.exe.config
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\bin\Debug\Check_eabay_todson.exe
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\bin\Debug\Check_eabay_todson.pdb
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.csprojAssemblyReference.cache
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.Properties.Resources.resources
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.csproj.GenerateResource.cache
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.csproj.CoreCompileInputs.cache
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.exe
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Check_eabay_todson.pdb
+C:\Users\yeukh\source\repos\Check_eabay_todson\Check_eabay_todson\obj\Debug\Test.Form1.resources
